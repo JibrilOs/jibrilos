@@ -13,4 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+I'm  front-end Web Developer and I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
+
+{ name: Jibril, Superpowers: coding }
+
+Languages / Frameworks:
+
+Html
+Css
+Scss
+Javascript
+React
+
+
+Lets connect
+💻 Website /  📷 Instagram / 👨‍👨‍👧‍👦 Linkedin / 🐧 Discord
+
+
