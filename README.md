@@ -1,6 +1,5 @@
-![54681761](https://user-images.githubusercontent.com/54681761/113034107-675be980-919a-11eb-9c9d-73bc622886c9.png)
-
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/54681761/113034107-675be980-919a-11eb-9c9d-73bc622886c9.png" width="100%">
+## Hi there 👋
 
 <!--
 **JibrilOs/jibrilos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,13 +22,12 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 
 { name: Jibril, Superpowers: coding }
 
-Languages / Frameworks:
-###  SKills
-Html
-Css
-Scss
-Javascript
-React
+## 💻💻 Languages / Frameworks:
+### Html
+### Css
+### Scss
+### Javascript
+### React
 
 
 
