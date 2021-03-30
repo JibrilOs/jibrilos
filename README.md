@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 -->
-## Hi there, I'm Jibril 👋
+### Hi there, I'm Jibril 👋
 
 I'm  front-end Web Developer and I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
 
