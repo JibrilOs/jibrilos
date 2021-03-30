@@ -1,4 +1,4 @@
-(https://avatars.githubusercontent.com/u/54681761?v=4)
+![54681761](https://user-images.githubusercontent.com/54681761/113034107-675be980-919a-11eb-9c9d-73bc622886c9.png)
 
 ### Hi there 👋
 
