@@ -22,7 +22,7 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 { name: Jibril, Superpowers: coding }
 
 Languages / Frameworks:
-
+##SKills
 Html
 Css
 Scss
@@ -30,7 +30,6 @@ Javascript
 React
 
 
-Lets connect
-💻 Website /  📷 Instagram / 👨‍👨‍👧‍👦 Linkedin / 🐧 Discord
+
 
 
