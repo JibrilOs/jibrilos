@@ -28,6 +28,8 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 ### Scss
 ### Javascript
 ### React
+### Material UI
+### Strapi
 
 
 
