@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 I'm  front-end Web Developer and I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
 
-{ name: Jibril, Superpowers: coding }
+{ Superpowers: ⚡⚡⚡coding⚡⚡⚡ }
 
-## 💻💻 Languages / Frameworks:
+## 💻💻 Languages / Frameworks 💻💻:
 ### Html
 ### Css
 ### Scss
