@@ -30,13 +30,15 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 ###  <img src="https://user-images.githubusercontent.com/54681761/113210777-4ae4ad80-927d-11eb-8b89-a37910f2f74d.png" width="80px"  > Sass 
 
 
+
  
-### Javascript
+###  <img src="https://user-images.githubusercontent.com/54681761/113211310-fe4da200-927d-11eb-971c-fbe0d2485d0b.png" width="80px"  >   Javascript
 ### React
 ### Material UI
 ### Strapi
 ## 🌱 I’m currently learning 
 ### Node Express
+### Typescript
 ### Figma
 ### Adobe illustrator
 ## ⚒ I’m currently working on
