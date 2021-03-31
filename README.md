@@ -33,12 +33,18 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 ###  <img src="https://user-images.githubusercontent.com/54681761/113211595-5be1ee80-927e-11eb-8b1a-925c061e6d75.png" width="80px"  > Material UI 
 ###  <img src="https://user-images.githubusercontent.com/54681761/113211767-99df1280-927e-11eb-8ef7-dee45e153cbf.png" width="80px"  > Strapi
 ## 🌱 I’m currently learning 
-###  <img src="" width="80px"  >  Node Express
-###  <img src="" width="80px"  >   Typescript
-###  <img src="" width="80px"  >   Figma
-###  <img src="" width="80px"  >   Adobe illustrator
+###  <img src="https://user-images.githubusercontent.com/54681761/113212316-415c4500-927f-11eb-90ad-f748b335f479.png" width="80px"  >  Node Express 
+
+###  <img src="https://user-images.githubusercontent.com/54681761/113212427-681a7b80-927f-11eb-83a2-2889ca076e2f.png" width="80px"  >   Typescript
+###  <img src="https://user-images.githubusercontent.com/54681761/113212526-8d0eee80-927f-11eb-88cb-439537c87f43.png" width="80px"  >   Figma 
+
+###  <img src="https://user-images.githubusercontent.com/54681761/113212598-a6179f80-927f-11eb-94e5-88fd131dba2a.png" width="80px"  >   Adobe illustrator 
+
+
 ## ⚒ I’m currently working on
-###  <img src="" width="80px"  >  My Portfolio
+###  <img src="https://user-images.githubusercontent.com/54681761/113212677-c2b3d780-927f-11eb-9dde-6f0e6b2374bf.png" width="80px"  >  My Portfolio
+
+
 
 
 
