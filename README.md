@@ -25,7 +25,7 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 { Superpowers: ⚡⚡⚡coding⚡⚡⚡ }
 
 ## 💻💻 Languages / Frameworks 💻💻:
-### Html
+### <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/fd/b6/3f/fdb63f89-c074-45fb-20ac-1cf5bf6251c9/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="80px"  >  Html
 ###  <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" width="80px"  >  Css
 ###  <img src="https://user-images.githubusercontent.com/54681761/113210777-4ae4ad80-927d-11eb-8b89-a37910f2f74d.png" width="80px"  > Sass 
 
