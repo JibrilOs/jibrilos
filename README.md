@@ -28,8 +28,9 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 ### Html
 ###  <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" width="80px"  >  Css
 
-### (https://user-images.githubusercontent.com/54681761/113210636-1f61c300-927d-11eb-99d1-4fe5cb8dec0e.png)![sass]
- Sass
+![sass](https://user-images.githubusercontent.com/54681761/113210777-4ae4ad80-927d-11eb-8b89-a37910f2f74d.png) Sass
+
+ 
 ### Javascript
 ### React
 ### Material UI
