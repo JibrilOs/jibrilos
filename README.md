@@ -42,7 +42,7 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 
 
 ## ⚒ I’m currently working on
-###  <img src="https://user-images.githubusercontent.com/54681761/113212677-c2b3d780-927f-11eb-9dde-6f0e6b2374bf.png" width="100px"  >  My Portfolio
+###  <img src="https://user-images.githubusercontent.com/54681761/113212677-c2b3d780-927f-11eb-9dde-6f0e6b2374bf.png" width="300px"   heigth="auto">  My Portfolio
 
 
 
