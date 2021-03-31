@@ -25,7 +25,7 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 ## 💻💻 Languages / Frameworks 💻💻:
 ### Html
 ### Css
-### Scss
+### Sass
 ### Javascript
 ### React
 ### Material UI
