@@ -27,8 +27,8 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 ## 💻💻 Languages / Frameworks 💻💻:
 ### Html
 ###  <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg" width="80px"  >  Css
+###  <img src="https://user-images.githubusercontent.com/54681761/113210777-4ae4ad80-927d-11eb-8b89-a37910f2f74d.png" width="80px"  > Sass 
 
-![sass](https://user-images.githubusercontent.com/54681761/113210777-4ae4ad80-927d-11eb-8b89-a37910f2f74d.png) Sass
 
  
 ### Javascript
