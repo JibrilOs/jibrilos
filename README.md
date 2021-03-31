@@ -34,7 +34,8 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 ### Node Express
 ### Figma
 ### Adobe illustrator
-
+## ⚒ I’m currently working on
+### My Portfolio
 
 
 
