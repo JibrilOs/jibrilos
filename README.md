@@ -30,7 +30,10 @@ I'm  front-end Web Developer and I have a passion for creating fast loading, dyn
 ### React
 ### Material UI
 ### Strapi
-
+## 🌱 I’m currently learning 
+### Node Express
+### Figma
+### Adobe illustrator
 
 
 
