@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### [![Jibril's GitHub stats](https://github-readme-stats.vercel.app/api?username=JibrilOs)](https://github.com/JibrilOs/github-readme-stats)
 
 ###  <img src="" width="80px"  >  
 -->
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 I'm a passionate self-taught frontEnd web developer and I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available. I grind HTML and CSS then weld them with javascript into beautiful and efficient websites.I like to code things from scratch, and enjoy bringing ideas to life in the browser.I have a passion ❤ for web development and love to create for web and mobile devices.I’m an aspiring web designer who loves everything about the web.I’d like to work for a web development firm  and make clients create an impressive online presence.I am a self taught developer 💻,who loves to challenge himself into learning new things .
 
 { Superpowers: ⚡⚡⚡coding⚡⚡⚡ }
+
 
 ## 💻💻 Languages / Frameworks 💻💻:
 ### <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/fd/b6/3f/fdb63f89-c074-45fb-20ac-1cf5bf6251c9/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="80px"  >  Html
@@ -46,6 +46,7 @@ I'm a passionate self-taught frontEnd web developer and I have a passion for cre
 ###  <img src="https://user-images.githubusercontent.com/54681761/113212677-c2b3d780-927f-11eb-9dde-6f0e6b2374bf.png" width="300px"   heigth="auto">  My Portfolio
 
 
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JibrilOs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
