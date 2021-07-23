@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###  <img src="" width="80px"  >  
 -->
-### Hi there, I'm Jibril 👋 .  I'm the Unknown Developer.
+### Hi there, I'm Jibril 👋 .  I'm the Unknown Developer with super coding powers
 
 I'm a passionate self-taught frontEnd web developer and I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available. I grind HTML and CSS then weld them with javascript into beautiful and efficient websites.I like to code things from scratch, and enjoy bringing ideas to life in the browser.I have a passion ❤ for web development and love to create for web and mobile devices.I’m an aspiring web designer who loves everything about the web.I’d like to work for a web development firm  and make clients create an impressive online presence.I am a self taught developer 💻,who loves to challenge himself into learning new things .
 
